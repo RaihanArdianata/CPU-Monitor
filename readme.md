@@ -1,6 +1,6 @@
 # CPU Monitor
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png)]()
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png)]()
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
